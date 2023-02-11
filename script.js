@@ -1,3 +1,6 @@
+function log(){
+location.href="https://web.facebook.com/?stype=lo&jlou=Aff_0QE_7HPmyA55C9pvxqQZy6YQPO5ng6aFl2K77_LSqlDW4pBcQOPVqXhA6M4axzHEQTvVU7xA1bQwWgaPUEUxZ4cYIuo0-Yj10a_OEG4NVg&smuh=22054&lh=Ac-2wVu3lVXofDucIMs"
+}
     var btn = document.getElementById('btn');
     btn.addEventListener('click',function(e) {
         e.preventDefault()
